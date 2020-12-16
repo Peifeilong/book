@@ -10,7 +10,7 @@
 * [第二章 各种坑](part2/README.md)
     * [第一节 ASE 非对称加密](part2/1.md)
     * [第二节 导出文件](part2/2.md)
-    * [第三节](part2/3.md)
+    * [第三节 安装gitbook并发布到GitHub](part2/3.md)
     * [第四节](part2/4.md)
 * [第三章](part3/README.md)
 * [第四章](part4/README.md)
