@@ -4,7 +4,7 @@
 * [前言](readme.md)
 * [第一章 总结](part1/README.md)
     * [第一节 vue中的watch和computed](part1/1.md)
-    * [第二节](part1/2.md)
+    * [第二节 异步解决方案](part1/2.md)
     * [第三节](part1/3.md)
     * [第四节](part1/4.md)
 * [第二章 各种坑](part2/README.md)
